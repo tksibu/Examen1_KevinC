@@ -1,0 +1,15 @@
+C:\Users\kevin\source\repos\Examen1_KevinCaballero\Examen1_KevinCaballero\bin\Debug\net8.0\Examen1_KevinCaballero.exe
+C:\Users\kevin\source\repos\Examen1_KevinCaballero\Examen1_KevinCaballero\bin\Debug\net8.0\Examen1_KevinCaballero.deps.json
+C:\Users\kevin\source\repos\Examen1_KevinCaballero\Examen1_KevinCaballero\bin\Debug\net8.0\Examen1_KevinCaballero.runtimeconfig.json
+C:\Users\kevin\source\repos\Examen1_KevinCaballero\Examen1_KevinCaballero\bin\Debug\net8.0\Examen1_KevinCaballero.dll
+C:\Users\kevin\source\repos\Examen1_KevinCaballero\Examen1_KevinCaballero\bin\Debug\net8.0\Examen1_KevinCaballero.pdb
+C:\Users\kevin\source\repos\Examen1_KevinCaballero\Examen1_KevinCaballero\obj\Debug\net8.0\Examen1_KevinCaballero.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kevin\source\repos\Examen1_KevinCaballero\Examen1_KevinCaballero\obj\Debug\net8.0\Examen1_KevinCaballero.AssemblyInfoInputs.cache
+C:\Users\kevin\source\repos\Examen1_KevinCaballero\Examen1_KevinCaballero\obj\Debug\net8.0\Examen1_KevinCaballero.AssemblyInfo.cs
+C:\Users\kevin\source\repos\Examen1_KevinCaballero\Examen1_KevinCaballero\obj\Debug\net8.0\Examen1_KevinCaballero.csproj.CoreCompileInputs.cache
+C:\Users\kevin\source\repos\Examen1_KevinCaballero\Examen1_KevinCaballero\obj\Debug\net8.0\Examen1_KevinCaballero.sourcelink.json
+C:\Users\kevin\source\repos\Examen1_KevinCaballero\Examen1_KevinCaballero\obj\Debug\net8.0\Examen1_KevinCaballero.dll
+C:\Users\kevin\source\repos\Examen1_KevinCaballero\Examen1_KevinCaballero\obj\Debug\net8.0\refint\Examen1_KevinCaballero.dll
+C:\Users\kevin\source\repos\Examen1_KevinCaballero\Examen1_KevinCaballero\obj\Debug\net8.0\Examen1_KevinCaballero.pdb
+C:\Users\kevin\source\repos\Examen1_KevinCaballero\Examen1_KevinCaballero\obj\Debug\net8.0\Examen1_KevinCaballero.genruntimeconfig.cache
+C:\Users\kevin\source\repos\Examen1_KevinCaballero\Examen1_KevinCaballero\obj\Debug\net8.0\ref\Examen1_KevinCaballero.dll
